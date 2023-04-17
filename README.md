@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a Web Developer Intern
-- 🌱 I’m learning Angular, React, .NET6, C# JavaScript, Typescript, HTML5 and CSS
+- 🌱 I’m learning Angular, React, .NET, C#, JavaScript, Typescript, HTML5 and CSS
 - 📫 How to reach me: mariliaalves@yahoo.com
 -->🐱‍👤
 
